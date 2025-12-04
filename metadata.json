@@ -1,0 +1,5 @@
+{
+  "name": "Cloud & Mist FX",
+  "description": "Procedural cloud and mist animation using noise displacement and domain warping on custom textures.",
+  "requestFramePermissions": []
+}
